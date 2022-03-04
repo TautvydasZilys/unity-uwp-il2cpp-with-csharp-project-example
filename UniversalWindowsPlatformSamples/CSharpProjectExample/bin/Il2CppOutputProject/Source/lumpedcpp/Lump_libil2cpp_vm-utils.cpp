@@ -1,8 +1,0 @@
-#include "il2cpp-config.h"
-#include "E:\Projects\unity-uwp-il2cpp-with-csharp-project-example\bin\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\BlobReader.cpp"
-#include "E:\Projects\unity-uwp-il2cpp-with-csharp-project-example\bin\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\Debugger.cpp"
-#include "E:\Projects\unity-uwp-il2cpp-with-csharp-project-example\bin\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\NativeDelegateMethodCache.cpp"
-#include "E:\Projects\unity-uwp-il2cpp-with-csharp-project-example\bin\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\NativeSymbol.cpp"
-#include "E:\Projects\unity-uwp-il2cpp-with-csharp-project-example\bin\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\VmStringUtils.cpp"
-#include "E:\Projects\unity-uwp-il2cpp-with-csharp-project-example\bin\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\icalls\mscorlib\System.Threading\Interlocked.cpp"
-#include "E:\Projects\unity-uwp-il2cpp-with-csharp-project-example\bin\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\icalls\mscorlib\System\Math.cpp"

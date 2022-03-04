@@ -1,0 +1,1 @@
+The sample has been moved to https://github.com/Unity-Technologies/DesktopSamples/tree/master/UniversalWindowsPlatformSamples/CSharpProjectExample.
